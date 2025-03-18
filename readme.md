@@ -1,0 +1,1 @@
+Esta aplicación permite al usuario sortear una serie de amigos para dinámicas, juegos, rifas, etc. 
